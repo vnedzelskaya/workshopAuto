@@ -8,7 +8,6 @@ public class NameAndAge {
         System.out.println("How old are you, " + name + "?");
         int age = scan.nextInt();
         System.out.println("So, your name is " + name + " and you're " + age + " years old!");
-
     }
 }
 

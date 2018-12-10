@@ -11,7 +11,6 @@ public class Array10 {
         for (int i = 9; i > -1; i--) {
             System.out.println(i + ": " + numbers[i]);
         }
-
     }
 }
 
