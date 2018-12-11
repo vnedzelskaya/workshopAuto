@@ -1,3 +1,5 @@
+// Без эксепшенов
+
 import java.util.Scanner;
 
 public class Array10 {
